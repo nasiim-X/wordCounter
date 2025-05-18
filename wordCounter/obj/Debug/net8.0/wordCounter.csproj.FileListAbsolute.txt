@@ -1,0 +1,14 @@
+G:\Csharp\wordCounter\wordCounter\bin\Debug\net8.0\wordCounter.exe
+G:\Csharp\wordCounter\wordCounter\bin\Debug\net8.0\wordCounter.deps.json
+G:\Csharp\wordCounter\wordCounter\bin\Debug\net8.0\wordCounter.runtimeconfig.json
+G:\Csharp\wordCounter\wordCounter\bin\Debug\net8.0\wordCounter.dll
+G:\Csharp\wordCounter\wordCounter\bin\Debug\net8.0\wordCounter.pdb
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\wordCounter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\wordCounter.AssemblyInfoInputs.cache
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\wordCounter.AssemblyInfo.cs
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\wordCounter.csproj.CoreCompileInputs.cache
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\wordCounter.dll
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\refint\wordCounter.dll
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\wordCounter.pdb
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\wordCounter.genruntimeconfig.cache
+G:\Csharp\wordCounter\wordCounter\obj\Debug\net8.0\ref\wordCounter.dll
